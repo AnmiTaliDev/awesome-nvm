@@ -5,4 +5,7 @@ List of cool things in NovariaOS ecosystem.
 - [Perano-Lang](https://github.com/noxzion/perano-lang): a language with a syntax similar to Rust.
 - [Nvma](https://github.com/novariaos/nvma): nvm bytecode assembler
 
+# Utils
+- [Fetch](https://github.com/novariaos/fetch): just a fetch
+
 _And that's all! If you've created something for the NovariaOS ecosystem, feel free to open a pull request!_
